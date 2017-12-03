@@ -15,3 +15,6 @@
 JavaApplication6/build/classes/.netbeans_automatic_build
 JavaApplication6/build/classes/.netbeans_update_resources
 *.class
+/JavaApplication8/nbproject/private/
+/JavaApplication8/dist/
+/JavaApplication8/build/
