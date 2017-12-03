@@ -7,3 +7,11 @@
 /Lab1Task2/nbproject/project.properties
 /Lab1Task2/nbproject/project.xml
 /Lab1Task2/build/
+/JavaApplication7/nbproject/private/
+/JavaApplication7/build/
+*.xml
+*.mf
+*.properties
+JavaApplication6/build/classes/.netbeans_automatic_build
+JavaApplication6/build/classes/.netbeans_update_resources
+*.class
